@@ -1,0 +1,1 @@
+bash <(curl -fsSL https://raw.githubusercontent.com/duckhuy-dev/duckhuy-dev/refs/heads/main/inst.sh)
